@@ -1,0 +1,4 @@
+cd exp-g
+terminal: nodemon
+
+http://localhost:3000/
